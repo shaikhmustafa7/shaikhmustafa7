@@ -1,6 +1,14 @@
 # 💫 About Me:
-Gulam Mustafa | MERN Stack Developer <br>
-20 years of energy, curiosity, and code.<br>
+
+##⚡ Hi, I'm Gulam Mustafa | MERN Full Stack Developer
+
+20 years of energy, fueled by coffee and clean code. I transform complex ideas into high-performance, full-stack reality using the MERN ecosystem.<br>
+
+Building: Scalable web architectures.<br>
+
+Obsessed with: UI precision & Backend efficiency.<br>
+
+Philosophy: Code is poetry; make it count.<br>
 
 
 ## 🌐 Socials:
@@ -15,20 +23,3 @@ Gulam Mustafa | MERN Stack Developer <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shaikhmustafa7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**shaikhmustafa7/shaikhmustafa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
