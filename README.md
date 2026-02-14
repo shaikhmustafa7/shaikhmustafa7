@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-##⚡ Hi, I'm Gulam Mustafa | MERN Full Stack Developer
+⚡ Hi, I'm Gulam Mustafa | MERN Full Stack Developer
 
 20 years of energy, fueled by coffee and clean code. I transform complex ideas into high-performance, full-stack reality using the MERN ecosystem.<br>
 
