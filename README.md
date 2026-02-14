@@ -1,5 +1,6 @@
 # 💫 About Me:
-hello i'm Gulam Mustafa, i am energetic person of 20 year age and i am Mern Full Stack Web Developer<br>
+Gulam Mustafa | MERN Stack Developer <br>
+20 years of energy, curiosity, and code.<br>
 
 
 ## 🌐 Socials:
